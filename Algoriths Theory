@@ -1,0 +1,34 @@
+3. Learn Algorithms
+Once you have cleared the concepts of Data Structures, now its time to start your journey through the Algorithms. Based on the type of nature and usage, the Algorithms are grouped together into several categories, as shown below:
+
+1. Searching Algorithm
+Now we have learned about some linear data structures and is time to learn about some basic and most used algorithms which are hugely used in these types of data structures. One such algorithm is the searching algorithm. 
+
+Searching algorithms are used to find a specific element in an array, string, linked list, or some other data structure. 
+
+The most common searching algorithms are:
+
+Linear Search – In this searching algorithm, we check for the element iteratively from one end to the other.
+Binary Search – In this type of searching algorithm, we break the data structure into two equal parts and try to decide in which half we need to find for the element. 
+Ternary Search – In this case, the array is divided into three parts, and based on the values at partitioning positions we decide the segment where we need to find the required element.
+Besides these, there are other searching algorithms also like 
+
+Jump Search
+Interpolation Search 
+Exponential Search 
+2. Sorting Algorithm
+Here is one other most used algorithm. Often we need to arrange or sort data as per a specific condition. The sorting algorithm is the one that is used in these cases. Based on conditions we can sort a set of homogeneous data in order like sorting an array in increasing or decreasing order. 
+
+Sorting Algorithm is used to rearrange a given array or list elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of element in the respective data structure.
+
+An example to show Sorting
+An example to show Sorting
+
+There are a lot of different types of sorting algorithms. Some widely used algorithms are:
+
+Bubble Sort
+Selection Sort
+Insertion Sort
+Quick Sort
+Merge Sort
+There are several other sorting algorithms also and they are beneficial in different cases. You can learn about them and more in our dedicated article on Sorting algorithms.
